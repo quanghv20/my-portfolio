@@ -16,7 +16,7 @@ export default function Navbar() {
 
     useEffect(() => {
         setIsNavMenuOpen(false);
-    }, [location.pathname]);
+    }, [pathname]);
 
     return (
         <div className="flex flex-1 justify-end md:justify-center">
