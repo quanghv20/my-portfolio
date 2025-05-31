@@ -7,7 +7,7 @@ import Paragraph from "./Paragraph";
 
 const timelineData = [
   {
-    year: "2025 - Present",
+    year: "2024 - Present",
     title:
       "Onsite at Viettel VMC – Optical Fiber Production Process Management",
     content: [
@@ -20,17 +20,17 @@ const timelineData = [
       "Collaborated with other teams to ensure smooth operation, scalability, and effective data analysis for management reports.",
     ],
   },
-  {
-    year: "2024 - 2025",
-    title: "Onsite at VOV Digital Newspaper",
-    content: [
-      "Participated in building <b>admin dashboards</b> outside the main digital newspaper system for retrieving and analyzing content data.",
-      "Used <b>ReactJS + NodeJS</b> to develop dashboards displaying real-time access statistics, page views, traffic sources, and user behavior.",
-      "Designed intuitive interfaces with charts and data tables capable of filtering by time, category, and keywords.",
-      "Managed state effectively with Redux, especially in handling large datasets and multiple interactions.",
-      "Applied lazy loading, memoization, and code splitting to optimize system performance.",
-    ],
-  },
+  // {
+  //   year: "2024 - 2025",
+  //   title: "Onsite at VOV Digital Newspaper",
+  //   content: [
+  //     "Participated in building <b>admin dashboards</b> outside the main digital newspaper system for retrieving and analyzing content data.",
+  //     "Used <b>ReactJS + NodeJS</b> to develop dashboards displaying real-time access statistics, page views, traffic sources, and user behavior.",
+  //     "Designed intuitive interfaces with charts and data tables capable of filtering by time, category, and keywords.",
+  //     "Managed state effectively with Redux, especially in handling large datasets and multiple interactions.",
+  //     "Applied lazy loading, memoization, and code splitting to optimize system performance.",
+  //   ],
+  // },
   {
     year: "2023 - 2024",
     title: "Accounting Web Project for MJS Company – Japan",
@@ -79,7 +79,7 @@ export default function Timeline() {
 
             <button
               onClick={() => toggleCollapsed(index)}
-              className="text-gray-500 dark:text-gray-400"
+              className="text-gray-500 dark:text-gray-400 cursor-pointer"
             >
               {collapsed[index] ? (
                 <svg

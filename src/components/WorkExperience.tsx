@@ -32,6 +32,7 @@ export default function WorkExperience() {
                           data-nimg="1"
                           className="h-10 w-10 rounded-full"
                           src={item?.logoCompany}
+                          unoptimized
                         />
                       </div>
                       <dl className="flex flex-auto flex-wrap gap-1">

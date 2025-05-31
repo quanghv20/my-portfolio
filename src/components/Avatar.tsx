@@ -21,6 +21,7 @@ export default function Avatar() {
             className="rounded-full bg-zinc-100 object-cover dark:bg-zinc-800 h-20 w-20"
             sizes="4rem"
             src={personalInfo?.avatarUrl}
+            unoptimized
           />
         </Link>
       </div>

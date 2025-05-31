@@ -24,6 +24,7 @@ export default function PhotoGallery() {
                   className="absolute inset-0 h-full w-full object-cover"
                   sizes="(min-width: 640px) 18rem, 11rem"
                   src={imgUrl}
+                  unoptimized
                 />
               </div>
             );

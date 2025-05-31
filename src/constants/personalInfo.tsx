@@ -7,7 +7,7 @@ export const personalInfo = {
   phone: "0986.915.765",
   website: "https://quanghv20.netlyfi.app",
   avatarUrl:
-    "https://scontent.fhan15-2.fna.fbcdn.net/v/t1.6435-9/70698615_711342159277727_2862410787262038016_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEZYFeGYTlFTs9D_D965wl_wll8Ejlhfb7CWXwSOWF9vqXO9bTJZ_Q3L2PM6CYDDnaGLjLtblrmTDbYz38d8PWQ&_nc_ohc=0ZQiAjtpPEoQ7kNvwFJGDGm&_nc_oc=AdkbaL76ROs2yFOdVItGaR51O0cmqa2mAGN38HdF5tz_SLliqW4Hgi7rmU65otlzexaqTRsx7_pEVDLHVKTjmF8g&_nc_zt=23&_nc_ht=scontent.fhan15-2.fna&_nc_gid=a-0z7iCbZx9YrN_tuTtByQ&oh=00_AfJcqdV4S0by8oQNJ0pfOuJzK_QVbYRp4OGh8PPt2t0xSA&oe=68466128",
+    "https://res.cloudinary.com/diisbdixw/image/upload/v1748661943/portfolio-avatar_dvy3wf.jpg",
   photoGallery: [
     "https://scontent.fhan15-1.fna.fbcdn.net/v/t1.6435-9/42488876_520904611654817_3379139217471832064_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFXfBGGDrh_C4xoPa7aGFlpCmshq4c8FbUKayGrhzwVtY-_B19DsdT3foNGsJOo6n4ff2dyskXZTNUr5Bc0YKft&_nc_ohc=gYk5Dxb9A4AQ7kNvwHpXpjt&_nc_oc=AdnLD1BjpDOIah5JqHS-6aQ7CSXuPZmnEk4G0q01m6LtYtWb1zWeFyEvHzGuf5iyHhMulwiVxTUVlq5lnlnsLz3F&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&_nc_gid=9BiUrWqkm1Hrudi_dGpmhA&oh=00_AfINNWD-F8Xv5T1T6ZyPTpZWEeh_2npHMjSmUa3TkZ4rVA&oe=6846502D",
     "https://scontent.fhan15-2.fna.fbcdn.net/v/t1.6435-9/62269024_648779955533948_5721539270322159616_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeG-2D1KEraxnLhzhzXLzAc-n5may6fbhpyfmZrLp9uGnDDJuYZp_hx43kSxIzssrIR1nPA_LX1bU9v3ltphVP_G&_nc_ohc=RppvJktacMMQ7kNvwHlGFzi&_nc_oc=Adk4A_95VxyiBhPNWT8bX0sxjEKMCmQpcFQSWvuRhUBK0cXjeVrFVxJZYxi6Y85YxsVIJzoUDGf0-4qqDh7343XV&_nc_zt=23&_nc_ht=scontent.fhan15-2.fna&_nc_gid=ksQKyZsjecEadlNk0mtqAQ&oh=00_AfJ6REH5W3rQ8V8L1Pe8lj76h2J50O-2qdPQIDh0O_MZ1A&oe=6846515D",
@@ -61,7 +61,7 @@ export const personalInfo = {
         {
           company: "FPT University",
           logoCompany:
-            "https://yt3.googleusercontent.com/f0WUG4YtZodKr5P4BzVkDxvyPGVx4gn9HpY18p6Wy17NIvug16nMJBXKGVKJqJerWZjxDrqN=s900-c-k-c0x00ffffff-no-rj",
+            "https://res.cloudinary.com/diisbdixw/image/upload/v1748661943/fptu-logo_vcn7jq.jpg",
           role: "Software Engineering",
           startDate: "2018",
           endDate: "2022",
@@ -95,25 +95,25 @@ export const personalInfo = {
         {
           company: "FPT Software",
           logoCompany:
-            "https://media.licdn.com/dms/image/v2/D560BAQGfyUCuV-FiFA/company-logo_200_200/company-logo_200_200/0/1738914920866/fpt_software_logo?e=1752105600&v=beta&t=GIxc0ig00kgRxWNW1rP0Fg5abzHaly_A4hcW2sMJ_sw",
+            "https://res.cloudinary.com/diisbdixw/image/upload/v1748661942/fpt_software_logo_xjk7bg.jpg",
           role: "ReactJS Developer",
           startDate: "2023",
           endDate: "2024",
         },
-        {
-          company: "VOV Digital Newspaper",
-          logoCompany:
-            "https://media.vov.vn/sites/default/files/logo/logovov.svg",
-          role: "NodeJS & ReactJS Developer",
-          startDate: "2024",
-          endDate: "2025",
-        },
+        // {
+        //   company: "VOV Digital Newspaper",
+        //   logoCompany:
+        //     "https://res.cloudinary.com/diisbdixw/image/upload/v1748661943/vov-logo_ybnvco.png",
+        //   role: "NodeJS & ReactJS Developer",
+        //   startDate: "2024",
+        //   endDate: "2025",
+        // },
         {
           company: "Viettel VMC",
           logoCompany:
-            "https://media.licdn.com/dms/image/v2/C560BAQHWPnNXS4EVZQ/company-logo_100_100/company-logo_100_100/0/1630640137510/viettel_group_logo?e=1752105600&v=beta&t=fe5GG5IkwLTBwQg5WKrXVsQnd8Q5lUm-iu-CYXLPB-E",
+            "https://res.cloudinary.com/diisbdixw/image/upload/v1748661943/viettel_group_logo_b3uwwp.jpg",
           role: "ReactJS Developer",
-          startDate: "2025",
+          startDate: "2024",
           endDate: "Present",
         },
       ],
