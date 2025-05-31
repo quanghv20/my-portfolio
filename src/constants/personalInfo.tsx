@@ -254,6 +254,6 @@ export const personalInfo = {
       // "Có kinh nghiệm mentoring, review code cho junior, thiết lập quy chuẩn codebase và CI/CD pipelines frontend.",
     ],
     imgUrl:
-      "https://scontent.fhan15-2.fna.fbcdn.net/v/t1.6435-9/62269024_648779955533948_5721539270322159616_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeG-2D1KEraxnLhzhzXLzAc-n5may6fbhpyfmZrLp9uGnDDJuYZp_hx43kSxIzssrIR1nPA_LX1bU9v3ltphVP_G&_nc_ohc=RppvJktacMMQ7kNvwHlGFzi&_nc_oc=Adk4A_95VxyiBhPNWT8bX0sxjEKMCmQpcFQSWvuRhUBK0cXjeVrFVxJZYxi6Y85YxsVIJzoUDGf0-4qqDh7343XV&_nc_zt=23&_nc_ht=scontent.fhan15-2.fna&_nc_gid=ksQKyZsjecEadlNk0mtqAQ&oh=00_AfJ6REH5W3rQ8V8L1Pe8lj76h2J50O-2qdPQIDh0O_MZ1A&oe=6846515D",
+      "https://res.cloudinary.com/diisbdixw/image/upload/v1748671004/about_otqvfm.jpg",
   },
 };
